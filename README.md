@@ -1,171 +1,302 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Harsh%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+# Hi 👋 I'm Harsh Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Real+Products;Exploring+AI+%26+Software+Engineering;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
 
-<br/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<a href="https://github.com/HarshKumar246735">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=HarshKumar246735&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" width="370" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-Hi! I'm **Harsh Kumar**, a developer passionate about building modern, responsive, and practical software applications.
+🎓 MCA Student @ Graphic Era Hill University
 
-* 🎓 MCA Graduate — Graphic Era Hill University
-* 💻 Focused on Full Stack Web Development
-* ⚛️ Building applications with the MERN stack
-* 🤖 Exploring Generative AI and AI Engineering
-* 🧠 Practicing Data Structures and Algorithms in Python
-* 🚀 Interested in scalable applications and real-world problem solving
-* 🎯 Aspiring Software Engineer
+💻 Passionate about Full Stack Development
 
-<br clear="right"/>
+🤖 Exploring Artificial Intelligence
+
+🌱 Currently Learning
+
+- Generative AI
+- LangChain
+- RAG
+- MCP
+- FastAPI
+- Machine Learning
+
+🎯 Career Goal
+
+Become a Software Engineer who builds scalable web applications and AI-powered products.
+
+⚡ Fun Fact
+
+> I love turning ideas into real-world applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,mysql" />
-</p>
-
-### 🎨 Frontend Development
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-</p>
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🔧 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
-### 🤖 AI & Emerging Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
+## Frontend
 
-> **Note:** Replace these project descriptions with the actual features and repository links for your projects.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,react,vite"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshKumar246735&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKumar246735&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=HarshKumar246735&theme=tokyonight&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
-## 🗺️ My Learning Roadmap
+## Backend
 
-| Technology           | Focus                                      |
-| -------------------- | ------------------------------------------ |
-| ⚛️ React             | Components, Hooks, state management        |
-| 🟢 Node.js & Express | APIs, authentication, backend architecture |
-| 🍃 MongoDB           | Data modeling and database operations      |
-| 🐍 Python            | DSA and problem-solving                    |
-| 🤖 Generative AI     | LLM applications and prompt engineering    |
-| 🔗 RAG & LangChain   | AI application development                 |
-| ⚡ FastAPI            | Python backend development                 |
-| ☁️ Cloud & DevOps    | Deployment, Docker, and CI/CD              |
-| 🏗️ System Design    | Scalable application architecture          |
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</p>
 
 ---
 
-## 🎯 Goals for 2026
+## AI & ML
 
-* [ ] Strengthen MERN stack development
-* [ ] Build production-ready full-stack applications
-* [ ] Develop practical AI-powered projects
-* [ ] Improve DSA and problem-solving skills
-* [ ] Learn system design fundamentals
-* [ ] Explore cloud computing and DevOps
-* [ ] Contribute to open-source projects
-* [ ] Secure a Software Engineer opportunity
-
----
-
-## 🧑‍💻 Developer Mindset
-
-```javascript
-const harsh = {
-  name: "Harsh Kumar",
-  role: "Aspiring Software Engineer",
-  languages: ["JavaScript", "Python", "Java"],
-  frontend: ["React", "HTML", "CSS"],
-  backend: ["Node.js", "Express.js"],
-  databases: ["MongoDB", "MySQL"],
-  interests: [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Problem Solving",
-    "System Design"
-  ],
-  motto: "Learn continuously. Build consistently."
-};
-
-console.log("Turning ideas into applications 🚀");
+```
+Generative AI
+LangChain
+RAG
+FastAPI
+MCP
+TensorFlow (Learning)
+OpenCV (Learning)
 ```
 
 ---
 
-## 🌐 Let's Connect
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🌦 Weatherly
+
+A modern MERN Stack Weather Application.
+
+### Features
+
+- 🌍 Search Weather by City
+- 📍 Current Location Weather
+- ⚡ Real-Time API Integration
+- 📱 Responsive Design
+- 🎥 Animated UI
+
+**Tech Stack**
+
+React • Node.js • Express • REST API
+
+---
+
+## 🤖 AI Interview System
+
+AI-powered Interview Preparation Platform.
+
+### Features
+
+- AI Mock Interviews
+- Resume Analysis
+- AI Feedback
+- Interactive Dashboard
+
+**Tech Stack**
+
+React • Node • Express • AI APIs
+
+---
+---
+
+## 🌟 Technologies I Enjoy Working With
 
 <div align="center">
 
-<a href="https://github.com/HarshKumar246735">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hkharsh246735@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-💬 Open to learning, collaboration, and exciting software development opportunities.
-
-### 💭 "Code. Learn. Build. Repeat." 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
+| Frontend | Backend | Database | AI | Tools |
+|----------|----------|-----------|-----|------|
+| React | Node.js | MongoDB | Generative AI | Git |
+| HTML | Express | MySQL | LangChain | GitHub |
+| CSS | REST APIs | Firebase | FastAPI | Postman |
+| JavaScript | JWT | SQL | RAG | VS Code |
 
 </div>
+
+
+
+# 📌 Featured Repositories
+
+🌦 Weatherly
+Modern MERN Weather App with Location Detection
+
+🤖 AI Interview System
+AI-powered Interview Preparation Platform
+
+🛒 E-Commerce Website
+Full Stack Shopping Platform using MERN
+
+
+
+📚 DSA in Python
+Coding Interview Preparation
+---
+
+# 🌱 Learning Roadmap
+
+```text
+██████████████████░░ React
+
+████████████████░░░ Node.js
+
+██████████████░░░░ Express
+
+████████████░░░░░ MongoDB
+
+████████░░░░░░░░ AI
+
+██████░░░░░░░░░░ Machine Learning
+
+████░░░░░░░░░░░░ AWS
+
+██░░░░░░░░░░░░░░ Kubernetes
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Crack a Software Engineer Role
+- ✅ Master MERN Stack
+- ✅ Learn AI Engineering
+- ✅ Build SaaS Products
+- ✅ Contribute to Open Source
+- ✅ Learn System Design
+- ✅ Build AI Automation Projects
+
+---
+
+# 💼 Experience Timeline
+
+```text
+2023
+│
+├── B.Sc Mathematics
+│
+2024
+│
+├── Started MCA
+│
+2025
+│
+├── MERN Stack Development
+│
+├── Full Stack Projects
+│
+2026
+│
+├── Learning AI Engineering
+├── Building AI Projects
+└── Looking for Software Engineer Opportunities
+```
+
+---
+
+# 📚 Currently Reading
+
+- Clean Code
+- Designing Data-Intensive Applications
+- Grokking Algorithms
+- Deep Learning with Python
+
+---
+
+# ☕ Developer Mindset
+
+```python
+class HarshKumar:
+
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.language = ["Python", "JavaScript", "Java"]
+        self.frontend = ["React"]
+        self.backend = ["Node.js", "Express"]
+        self.database = ["MongoDB", "MySQL"]
+        self.learning = [
+            "Generative AI",
+            "LangChain",
+            "FastAPI",
+            "RAG",
+            "MCP"
+        ]
+
+    def life(self):
+        return "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁"
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hàrsh-singh-b70bb1377/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="hkharsh246735@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/harshkumar35-git">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&center=true&width=600&lines=Happy+Coding!;See+You+Again!+👋;Keep+Building+Amazing+Things!"/>
+
+</div>
+    
