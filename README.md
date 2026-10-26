@@ -102,37 +102,6 @@ OpenCV (Learning)
 
 ---
 
-# 📌 Featured Projects
-
-## 🌦 Weatherly
-
-A modern MERN Stack Weather Application.
-
-### Features
-
-- 🌍 Search Weather by City
-- 📍 Current Location Weather
-- ⚡ Real-Time API Integration
-- 📱 Responsive Design
-- 🎥 Animated UI
-
-**Tech Stack**
-
-React • Node.js • Express • REST API
-
----
-
-## 🤖 AI Interview System
-
-AI-powered Interview Preparation Platform.
-
-### Features
-
-- AI Mock Interviews
-- Resume Analysis
-- AI Feedback
-- Interactive Dashboard
-
 **Tech Stack**
 
 React • Node • Express • AI APIs
